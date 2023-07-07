@@ -1,0 +1,139 @@
+﻿@page "/excel"
+@using ExcelApp.Data
+@using ExcelApp.Interfaces
+@using ExcelApp.Services
+@inject IFileUploadService FileUploadService
+
+@inject TableService TableService
+<div class="container">
+    <h3 class="mb-4">Upload Two Files</h3>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="startDate">Period Start Date:</label>
+                <input class="form-control" type="date" id="startDate" @bind="@StartDate"/>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="endDate">Period End Date:</label>
+                <input class="form-control" type="date" id="endDate" @bind="@EndDate"/>
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 30px" class="row">
+        <div class="col-md-14">
+            <TableComponent Columns="@_columnList" Items="@_productInfos"/>
+        </div>
+    </div>
+    <div class="row mt-4">
+        <div class="col-md-16">
+            @if (!IsValidField())
+            {
+                <div>@ErrorMessages</div>
+            }
+            else
+            {
+                <div>@_infoMessage</div>
+                <button class="btn btn-primary" @onclick="UploadFiles">Merging Files</button>
+            }
+        </div>
+    </div>
+    <div class="row mt-4">
+        <div class="col-md-16">
+            <InputFile class="form-control-file" multiple OnChange="HandleFileSelection" accept=".xlsx"/>
+        </div>
+    </div>
+</div>
+
+@code {
+        private const int RequiredCountFiles = 2;
+    private List<IBrowserFile>? _files;
+    private DateTime? _startDate;
+    private DateTime? _endDate;
+    private List<TableColumn>? _columnList;
+    private IEnumerable<ProductInfo>? _productInfos;
+    private string _errorMessages = string.Empty;
+    private string _infoMessage = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _columnList = await TableService.GetTableColumnAsync();
+        _productInfos = new List<ProductInfo>();
+    }
+
+    private bool IsValidField()
+    {
+        var res = _files?.Count == RequiredCountFiles && string.IsNullOrEmpty(ErrorMessages);
+        return res;
+    }
+
+    private void HandleFileSelection(InputFileChangeEventArgs e)
+    {
+        ClearData();
+        _files = new List<IBrowserFile>(e.GetMultipleFiles());
+    }
+
+    private void ClearData()
+    {
+        _productInfos = new List<ProductInfo>();
+        _infoMessage = string.Empty;
+    }
+
+    private void ValidateDateRange()
+    {
+        if (_startDate.HasValue && _endDate.HasValue && _startDate.Value > _endDate.Value)
+        {
+            ErrorMessages = Errors.ErrorDictionary[ErrorCode.StartDateIsWrong];
+        }
+        else
+        {
+            ErrorMessages = string.Empty;
+        }
+    }
+
+    private async Task UploadFiles()
+    {
+        ClearData();
+        if (_files != null && string.IsNullOrEmpty(ErrorMessages))
+        {
+            var uploadServerResult = await FileUploadService.UploadFile(_files, new ExcelFilter(_startDate, _endDate));
+            if (uploadServerResult.IsSuccess)
+            {
+                _productInfos = uploadServerResult.Value;
+            }
+            else
+            {
+                _infoMessage = uploadServerResult.ExceptionMessage;
+            }
+        }
+    }
+    
+
+    private string ErrorMessages
+    {
+        get => _errorMessages;
+        set { _errorMessages = value; }
+    }
+
+    private DateTime? StartDate
+    {
+        get => _startDate;
+        set
+        {
+            _startDate = value;
+            ValidateDateRange();
+        }
+    }
+
+    private DateTime? EndDate
+    {
+        get => _endDate;
+        set
+        {
+            _endDate = value;
+            ValidateDateRange();
+        }
+    }
+
+}

@@ -1,0 +1,34 @@
+﻿// TableComponent.razor
+@using System.Collections.Generic
+@using ExcelApp.Data
+
+
+<table class="table">
+    <thead>
+        <tr>
+            @foreach (var column in Columns)
+            {
+                <th>@column.DisplayName</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Items)
+        {
+            <tr>
+                @foreach (var column in Columns)
+                {
+                    <td>@column.GetValue(item)</td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    [Parameter]
+    public List<TableColumn> Columns { get; set; }
+
+    [Parameter]
+    public List<object> Items { get; set; }
+}

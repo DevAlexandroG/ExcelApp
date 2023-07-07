@@ -1,0 +1,85 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=055f48c8_002D5d34_002D4972_002Daddc_002D0ddbe0efc039/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0755beb3_002De306_002D404f_002Dbe81_002D441f75d27421/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #10" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0b1c5ba6_002D53ad_002D489b_002D990d_002Da8763fb6c000/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0eb80b93_002D2130_002D480b_002Da241_002D1ea84594c011/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #24" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1d743229_002D666d_002D40bb_002D8cf7_002Da63ce1650f7d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #11" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1de9d392_002Da51a_002D4085_002D962f_002D495402bcfc2b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #20" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2e03a64d_002D489a_002D46ee_002D9c59_002D60c56d3cf79b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=34aeca6c_002Dae1a_002D49e5_002D9650_002Dca1d470ef754/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #12" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=449e5559_002D12ab_002D43b2_002Da57a_002D87befeecf36c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #8" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=493c2b64_002Da7c1_002D40dc_002D99ca_002D0b7d129786f4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #17" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4d5d969a_002Ddadc_002D43e3_002D8432_002D2fef1a334d5a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #14" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=50460173_002D2159_002D4f59_002Da574_002D59c4421fe967/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #19" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=57c6bae1_002Ddabe_002D47f2_002D8e96_002D66ba1d824c6e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #9" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5cb94b12_002Deddd_002D46ed_002Db60b_002Dd25c655571a9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #26" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=623ff5d9_002D895b_002D4c6d_002D857b_002Da921f52938e1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #21" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6980d504_002De9ea_002D479e_002Da526_002De1233789d43f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #13" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6b083216_002D478c_002D4a18_002D9d50_002D3f58ef5aec6c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #23" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6b6ab096_002D42a6_002D478f_002Db60f_002Dc946a9bb0295/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6cda311c_002D3299_002D4a00_002Dba27_002D495914f9338a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7830c882_002Df123_002D4a03_002D8e21_002Ddaa5384a1df7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #28" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7e346990_002D8069_002D47d0_002Db2bf_002D16169ef4f760/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #27" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aa1f89c8_002Da8d3_002D42b9_002Dbf4e_002Db496ed62d4ca/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b374bffb_002D20dd_002D4af3_002D8e1b_002D218f0f594af7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #16" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b6aa1e0f_002Dd718_002D4d9d_002D9f1a_002D2b7ff417953a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #25" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cbbad294_002De257_002D4f9c_002D9714_002Dd764e590a672/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #22" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d0addafb_002D407b_002D45b0_002Db4b8_002D398bb3d80536/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #15" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d3b2228b_002D5e28_002D4146_002Dbe80_002Dbb095ef643c5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f0dcd894_002D5406_002D4852_002D8e21_002D06b93fee5f06/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ExcelApp.Test&amp;gt; #18" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\coolg\RiderProjects\ExcelApp\ExcelApp.Test" Presentation="&amp;lt;ExcelApp.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

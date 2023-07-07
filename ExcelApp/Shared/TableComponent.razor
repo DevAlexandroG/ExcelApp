@@ -1,0 +1,33 @@
+﻿@using ExcelApp.Data
+<h3>Table</h3>
+<table class="table">
+    <thead>
+    <tr>
+        @foreach (var column in Columns)
+        {
+            <th>@column.DisplayName</th>
+        }
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Items)
+    {
+        <tr>
+            @foreach (var column in Columns)
+            {
+                <td>@column.GetValue(item)</td>
+            }
+        </tr>
+    }
+    </tbody>
+</table>
+
+@code {
+
+    [Parameter]
+    public List<TableColumn> Columns { get; set; }
+
+    [Parameter]
+    public IEnumerable<ProductInfo> Items { get; set; }
+
+}

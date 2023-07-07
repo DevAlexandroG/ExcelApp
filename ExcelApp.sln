@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelApp", "ExcelApp\ExcelApp.csproj", "{B37DA06D-D2AD-4BE7-B7A6-18F5B1C1228E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelApp.Test", "ExcelApp.Test\ExcelApp.Test.csproj", "{CA8C7E97-7582-415E-BAE0-D284604DE0F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B37DA06D-D2AD-4BE7-B7A6-18F5B1C1228E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37DA06D-D2AD-4BE7-B7A6-18F5B1C1228E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37DA06D-D2AD-4BE7-B7A6-18F5B1C1228E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37DA06D-D2AD-4BE7-B7A6-18F5B1C1228E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8C7E97-7582-415E-BAE0-D284604DE0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8C7E97-7582-415E-BAE0-D284604DE0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8C7E97-7582-415E-BAE0-D284604DE0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8C7E97-7582-415E-BAE0-D284604DE0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
