@@ -22,3 +22,8 @@ The merging process follows these rules:
 If an item is present in "Package 1" but not in "Package 2", the "ExtID" field is empty.
 If an item is present in both "Package 1" and "Package 2", the "ExtID" field is populated with the ID value from "Package 2". The "Effective Date From" value is taken as the earliest one, and if it is empty, it is used. The "Effective Date To" value is taken as the latest one, and if it is empty, it is used.
 If an item is not present in "Package 1" but exists in "Package 2", the "ExtID" field is populated with the ID value from "Package 2", and the "ID" field is empty. Additionally, you can try to calculate a new ID for this item, which will be used in the "Package 1" file.
+
+Project screen.
+![image](https://github.com/DevAlexandroG/ExcelApp/assets/85547383/400446f0-8123-4003-8779-ec89a0c4a077)
+![image](https://github.com/DevAlexandroG/ExcelApp/assets/85547383/cd2b9f47-c1c7-4c79-afa4-af7125ab1996)
+
