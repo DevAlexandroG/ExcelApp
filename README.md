@@ -7,7 +7,8 @@ Necessaire file here.
 
 📓
 Test - Implementation of Data Loading from Files with Subsequent Sorting and Merging
-There are two Excel files: "Package 1" and "Package 2".
+There are two Excel files: 
+"Package 1" and "Package 2".
 
 Both files have five columns:
 "ID", "Cargo Name", "Cipher", "Effective Date From", "Effective Date To".
