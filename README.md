@@ -15,12 +15,13 @@ There are two Excel files:
 Both files have five columns:
 "ID", "Cargo Name", "Cipher", "Effective Date From", "Effective Date To".
 
-If the value in the "Effective Date From" column is empty,
-it means there is no start date. If the value in the "Effective Date To" column is empty,
-it means there is no end date. If both columns have empty values, it means the period is valid indefinitely.
+1) If the value in the "Effective Date From" column is empty, it means there is no start date. 
+2) If the value in the "Effective Date To" column is empty,it means there is no end date.
+3) If both columns have empty values, it means the period is valid indefinitely.
 
 The program should be implemented using Blazor WebAssembly.
 It should consist of a single page that includes the following components:
+
 1) A field for uploading two files simultaneously.
   
 2) Two fields for specifying dates: "Start Date of the Period"
