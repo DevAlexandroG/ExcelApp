@@ -10,7 +10,7 @@ Test - Implementation of Data Loading from Files with Subsequent Sorting and Mer
 
 There are two Excel files: 
 1) "Package 1" 
-2) "Package 2".
+2) "Package 2"
 
 Both files have five columns:
 "ID", "Cargo Name", "Cipher", "Effective Date From", "Effective Date To".
